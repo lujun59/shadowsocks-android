@@ -25,11 +25,13 @@ _Put an `x` inside the [ ] that applies._
   * [ ] Bypass LAN & China
   * [ ] GFW List
   * [ ] China List
+  * [ ] Custom rules
 * [ ] IPv6 route
 * [ ] Per-App Proxy
   * [ ] Bypass mode
-* [ ] UDP Forwarding
-* KCP Parameters: (leave blank if not enabled)
+* Remote DNS: 8.8.8.8
+* [ ] DNS Forwarding
+* Plugin configuration (if applicable):
 * [ ] Auto Connect
 * [ ] TCP Fast Open
 * [ ] NAT mode
